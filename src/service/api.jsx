@@ -55,7 +55,6 @@ export async function loginWithEmail(data) {
 
       localStorage.setItem('token', JSON.stringify(tokenData));
 
-      console.log(responseData);
       return responseData;
     } else {
       console.error('Login failed:', response.message);
