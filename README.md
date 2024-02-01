@@ -1,4 +1,4 @@
-# InfoSecFuture Website Test
+# InfoSecFuture Website Sample
 
 Welcome to the InfoSecFuture website repository! This is a React-based website showcasing our company's services and providing a registration page for interested users.
 
